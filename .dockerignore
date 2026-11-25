@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache & coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments & local editor/OS files
+venv/
+.venv/
+env/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Git repository metadata (not needed inside the image)
+.git/
+.gitignore
